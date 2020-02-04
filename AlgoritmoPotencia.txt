@@ -1,0 +1,4 @@
+function Algoritmo(int i)
+inicio
+	return i*i;
+fin
