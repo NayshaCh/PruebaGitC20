@@ -1,3 +1,9 @@
+Inicio
+int n = 0;
+Mostrar "Serie de Fibonacci";
+Mostrar "Ingresar numero de serie";
+Leer n;
+
 function void fibonacci(int i)
 inicio
 	if(i == 0)
@@ -7,3 +13,6 @@ inicio
 	else
 		return fibonacci(i) + fibonacci(i-1);
 fin
+
+Mostrar fibonacci(n);
+Fin
