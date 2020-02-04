@@ -1,4 +1,4 @@
-function fibonacci(int i)
+function void fibonacci(int i)
 inicio
 	if(i == 0)
 		return 0;
